@@ -10,6 +10,7 @@
 <p>testGIT</p>
 <p>test3から!</p>
 <p>test2から!</p>
-<p>pulltest</p>
+<p>pulltest2</p>
+<p>testpull2</p>
 </body>
 </html>
