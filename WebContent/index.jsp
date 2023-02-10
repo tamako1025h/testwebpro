@@ -9,6 +9,6 @@
 <body>
 <p>testGIT</p>
 <p>test3から!</p>
-<p>test3から!</p>
+<p>test2から!</p>
 </body>
 </html>
